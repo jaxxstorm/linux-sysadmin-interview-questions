@@ -15,6 +15,7 @@ A collection of linux sysadmin/devop interview questions. Feel free to contribut
   1. [DevOp Questions](#devop)
   1. [Fun Questions](#fun)
   1. [Demo Time](#demo)
+  1. [Puppet Specific](#puppet)
   1. [Other Great References](#references)
 
 
@@ -138,6 +139,11 @@ The majority of the questions were collected from:
 * How to send an email without a mail client, just on the command line?
 * Write a get_prim python/perl/bash/pseudo script.
 
+####[[⬆]](#toc) <a name='puppet'>Puppet Specific:</a>
+
+* What is a defined type?
+* What is containment?
+* What is your understanding of roles and profiles in Puppet?
 
 ####[[⬆]](#toc) <a name='references'>Other Great References:</a>
 
